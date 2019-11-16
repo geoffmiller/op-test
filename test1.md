@@ -1,3 +1,9 @@
+---
+author: Geoff Miller
+title: My Awesome Article
+discussion: https://twitter.com/@geoffmiller
+---
+
 # My Title
 
 ## What is Lorem Ipsum?
